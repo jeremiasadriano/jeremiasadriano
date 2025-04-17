@@ -10,10 +10,8 @@
 
 ###
 
-✨ Someone who is passionate about web development. <br>
-📚 I share my love for programming and technology by creating content on [Dev.to](https://dev.to/jeremiasadriano). <br>
-🎯 Goals: Create something extraordinary that makes people talk about it. <br>
-🎲 I love a good challenge
+✨ Someone who is passionate about... hmmm, I just forgot. Anyway, let’s just code. <br>
+📚 By the way, I often share my love for programming and technology by creating content on [Dev.to](https://dev.to/jeremiasadriano). <br>
 
 ###
 
