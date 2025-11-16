@@ -18,6 +18,6 @@
 <h2 align="left"></></h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,django,javascript,typescript,nodejs,react,nextjs,angular,cs,docker,git,linux,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,nodejs,react,nextjs,angular,python,fastapi,django,cs,docker,git,linux,aws)](https://skillicons.dev)
 
 ###
